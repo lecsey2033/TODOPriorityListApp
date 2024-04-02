@@ -1,6 +1,6 @@
 # TODO Priority List App
 
-## Description 📚
+## Overview 📚
 
 **TODO Priority List App** - as the name implies, this is a simple application for making a to-do list, with the possibility of dividing them into three priority levels.
 
